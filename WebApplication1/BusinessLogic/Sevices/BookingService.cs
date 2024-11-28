@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BusinessLogic.Sevices
 {
-    internal class BookingService : IBookingService
+    public class BookingService : IBookingService
     {
         private IRepositoryWrapper _repositoryWrapper;
 
@@ -33,14 +33,35 @@ namespace BusinessLogic.Sevices
 
         public async Task Create(Booking model)
         {
+            if (model == null)
+            {
+                throw new ArgumentNullException(nameof(model));
+            }
+            if (model.UserId == null)
+            {
+                throw new ArgumentException("UserId cannot be null.", nameof(model.UserId));
+            }
+            if (model.FlightId == null)
+            {
+                throw new ArgumentException("FlightId cannot be null.", nameof(model.FlightId));
+            }
+            if (model.BookingDate == DateTime.MinValue)
+            {
+                throw new ArgumentException("BookingDate cannot be the minimum value.", nameof(model.BookingDate));
+            }
+            if (string.IsNullOrEmpty(model.Status))
+            {
+                throw new ArgumentException("Status cannot be null or empty.", nameof(model.Status));
+            }
+
             await _repositoryWrapper.Booking.Create(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Save();
         }
 
         public async Task Update(Booking model)
         {
-            _repositoryWrapper.Booking.Update(model);
-            _repositoryWrapper.Save();
+            await  _repositoryWrapper.Booking.Update(model);
+            await  _repositoryWrapper.Save();
         }
 
         public async Task Delete(int id)
@@ -48,8 +69,8 @@ namespace BusinessLogic.Sevices
             var booking = await _repositoryWrapper.Booking
                 .FindByCondition(x => x.BookingId == id);
 
-            _repositoryWrapper.Booking.Delete(booking.First());
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Booking.Delete(booking.First());
+            await _repositoryWrapper.Save();
         }
     }
 }

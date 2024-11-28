@@ -32,14 +32,23 @@ namespace BusinessLogic.Sevices
         }
         public async Task Create(SpecialService model)
         {
+            if (model == null)
+            {
+                throw new ArgumentNullException(nameof(model));
+            }
+            if (string.IsNullOrEmpty(model.ServiceName))
+            {
+                throw new ArgumentException("ServiceName cannot be null or empty.", nameof(model.ServiceName));
+            }
+
             await _repositoryWrapper.Special.Create(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Save();
         }
 
         public async Task Update(SpecialService model)
         {
-            _repositoryWrapper.Special.Update(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Special.Update(model);
+            await _repositoryWrapper.Save();
         }
 
         public async Task Delete(int id)
@@ -47,8 +56,8 @@ namespace BusinessLogic.Sevices
             var special = await _repositoryWrapper.Special
                 .FindByCondition(x => x.ServiceId == id);
 
-            _repositoryWrapper.Special.Delete(special.First());
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Special.Delete(special.First());
+            await _repositoryWrapper.Save();
         }
     }
 }

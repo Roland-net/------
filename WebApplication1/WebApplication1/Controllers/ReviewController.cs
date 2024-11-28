@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-
 using Domain.Models;
 using DataAccess.Models;
 
@@ -17,6 +16,10 @@ namespace SocNet.Controllers
             Context = context;
         }
 
+        /// <summary>
+        /// Получение всех отзывов.
+        /// </summary>
+        /// <returns>Список всех отзывов.</returns>
         [HttpGet]
         public IActionResult GetAll()
         {
@@ -24,6 +27,13 @@ namespace SocNet.Controllers
             return Ok(Review);
         }
 
+        /// <summary>
+        /// Получение отзыва по идентификатору.
+        /// </summary>
+        /// <param name="id">Идентификатор отзыва.</param>
+        /// <returns>Отзыв с указанным идентификатором.</returns>
+        /// <response code="200">Возвращает отзыв.</response>
+        /// <response code="400">Если отзыв не найден.</response>
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
@@ -35,6 +45,12 @@ namespace SocNet.Controllers
             return Ok(Review);
         }
 
+        /// <summary>
+        /// Создание нового отзыва.
+        /// </summary>
+        /// <param name="Review">Данные для создания отзыва.</param>
+        /// <returns>Созданный отзыв.</returns>
+        /// <response code="200">Возвращает созданный отзыв.</response>
         [HttpPost]
         public IActionResult Add(Review Review)
         {
@@ -43,14 +59,27 @@ namespace SocNet.Controllers
             return Ok();
         }
 
+        /// <summary>
+        /// Обновление существующего отзыва.
+        /// </summary>
+        /// <param name="Review">Данные для обновления отзыва.</param>
+        /// <returns>Результат обновления.</returns>
+        /// <response code="200">Если отзыв успешно обновлен.</response>
         [HttpPut]
         public IActionResult Update(Review Review)
         {
-            Context.Reviews.Update(Review  );
+            Context.Reviews.Update(Review);
             Context.SaveChanges();
             return Ok(Review);
         }
 
+        /// <summary>
+        /// Удаление отзыва по идентификатору.
+        /// </summary>
+        /// <param name="id">Идентификатор отзыва.</param>
+        /// <returns>Результат удаления.</returns>
+        /// <response code="200">Если отзыв успешно удален.</response>
+        /// <response code="400">Если отзыв не найден.</response>
         [HttpDelete]
         public IActionResult Delete(int id)
         {

@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BusinessLogic.Sevices
 {
-    internal class FlightService : IFlightService
+    public class FlightService : IFlightService
     {
         private IRepositoryWrapper _repositoryWrapper;
 
@@ -33,14 +33,39 @@ namespace BusinessLogic.Sevices
 
         public async Task Create(Flight model)
         {
+            if (model == null)
+            {
+                throw new ArgumentNullException(nameof(model));
+            }
+            if (string.IsNullOrEmpty(model.FlightNumber))
+            {
+                throw new ArgumentException("FlightNumber cannot be null or empty.", nameof(model.FlightNumber));
+            }
+            if (model.DepartureAirportId == null)
+            {
+                throw new ArgumentException("DepartureAirportId cannot be null.", nameof(model.DepartureAirportId));
+            }
+            if (model.ArrivalAirportId == null)
+            {
+                throw new ArgumentException("ArrivalAirportId cannot be null.", nameof(model.ArrivalAirportId));
+            }
+            if (model.DepartureTime == DateTime.MinValue)
+            {
+                throw new ArgumentException("DepartureTime cannot be the minimum value.", nameof(model.DepartureTime));
+            }
+            if (model.ArrivalTime == DateTime.MinValue)
+            {
+                throw new ArgumentException("ArrivalTime cannot be the minimum value.", nameof(model.ArrivalTime));
+            }
+
             await _repositoryWrapper.Flight.Create(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Save();
         }
 
         public async Task Update(Flight model)
         {
-            _repositoryWrapper.Flight.Update(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Flight.Update(model);
+            await _repositoryWrapper.Save();
         }
 
         public async Task Delete(int id)
@@ -48,8 +73,8 @@ namespace BusinessLogic.Sevices
             var flight = await _repositoryWrapper.Flight
                 .FindByCondition(x => x.FlightId == id);
 
-            _repositoryWrapper.Flight.Delete(flight.First());
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Flight.Delete(flight.First());
+            await _repositoryWrapper.Save();
         }
     }
 }

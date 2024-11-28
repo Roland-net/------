@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BusinessLogic.Sevices
 {
-    internal class RoleService : IRoleService
+    public class RoleService : IRoleService
     {
         private IRepositoryWrapper _repositoryWrapper;
 
@@ -31,14 +31,23 @@ namespace BusinessLogic.Sevices
         }
         public async Task Create(Role model)
         {
+            if (model == null)
+            {
+                throw new ArgumentNullException(nameof(model));
+            }
+            if (string.IsNullOrEmpty(model.RoleName))
+            {
+                throw new ArgumentException("RoleName cannot be null or empty.", nameof(model.RoleName));
+            }
+
             await _repositoryWrapper.Role.Create(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Save();
         }
 
         public async Task Update(Role model)
         {
-            _repositoryWrapper.Role.Update(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Role.Update(model);
+            await _repositoryWrapper.Save();
         }
 
         public async Task Delete(int id)
@@ -46,8 +55,8 @@ namespace BusinessLogic.Sevices
             var role = await _repositoryWrapper.Role
                 .FindByCondition(x => x.RoleId == id);
 
-            _repositoryWrapper.Role.Delete(role.First());
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Role.Delete(role.First());
+            await _repositoryWrapper.Save();
         }
     }
 }

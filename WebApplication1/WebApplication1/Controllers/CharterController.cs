@@ -16,6 +16,10 @@ namespace SocNet.Controllers
             Context = context;
         }
 
+        /// <summary>
+        /// Получение всех чартеров.
+        /// </summary>
+        /// <returns>Список всех чартеров.</returns>
         [HttpGet]
         public IActionResult GetAll()
         {
@@ -23,6 +27,13 @@ namespace SocNet.Controllers
             return Ok(Charter);
         }
 
+        /// <summary>
+        /// Получение чартера по идентификатору.
+        /// </summary>
+        /// <param name="id">Идентификатор чартера.</param>
+        /// <returns>Чартер с указанным идентификатором.</returns>
+        /// <response code="200">Возвращает чартер.</response>
+        /// <response code="400">Если чартер не найден.</response>
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
@@ -34,6 +45,12 @@ namespace SocNet.Controllers
             return Ok(Charter);
         }
 
+        /// <summary>
+        /// Создание нового чартера.
+        /// </summary>
+        /// <param name="Charter">Данные для создания чартера.</param>
+        /// <returns>Созданный чартер.</returns>
+        /// <response code="200">Возвращает созданный чартер.</response>
         [HttpPost]
         public IActionResult Add(Charter Charter)
         {
@@ -42,6 +59,12 @@ namespace SocNet.Controllers
             return Ok();
         }
 
+        /// <summary>
+        /// Обновление существующего чартера.
+        /// </summary>
+        /// <param name="Charter">Данные для обновления чартера.</param>
+        /// <returns>Результат обновления.</returns>
+        /// <response code="200">Если чартер успешно обновлен.</response>
         [HttpPut]
         public IActionResult Update(Charter Charter)
         {
@@ -50,6 +73,13 @@ namespace SocNet.Controllers
             return Ok(Charter);
         }
 
+        /// <summary>
+        /// Удаление чартера по идентификатору.
+        /// </summary>
+        /// <param name="id">Идентификатор чартера.</param>
+        /// <returns>Результат удаления.</returns>
+        /// <response code="200">Если чартер успешно удален.</response>
+        /// <response code="400">Если чартер не найден.</response>
         [HttpDelete]
         public IActionResult Delete(int id)
         {

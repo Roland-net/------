@@ -1,406 +1,166 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\specialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\specialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\contract\\getspecialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contract\\getspecialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\models\\specialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\specialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\contract\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contract\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\contract\\createspecialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contract\\createspecialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\contract\\getticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contract\\getticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\contract\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contract\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\contract\\createticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\contract\\createticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\tiketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\tiketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\flcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\flcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\notificontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\notificontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\hiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\hiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\chartercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\chartercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\baggagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\baggagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\airportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\airportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\sevices\\airportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic\\sevices\\airportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\airportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\sevices\\baggageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic.tests\\airportservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\airportservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic.tests\\baggageservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\baggageservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic\\sevices\\baggageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\baggageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\sevices\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic\\sevices\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\sevices\\changerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic.tests\\bookingservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\bookingservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic.tests\\changehistoryservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\changehistoryservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic\\sevices\\changerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\changerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\sevices\\charterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic\\sevices\\charterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\charterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\sevices\\flightservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic.tests\\charterservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\charterservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic\\sevices\\flightservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\flightservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\sevices\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic.tests\\flightservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\flightservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic.tests\\notificationservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\notificationservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic\\sevices\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\sevices\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic\\sevices\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\sevices\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic.tests\\passengerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\passengerservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic\\sevices\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic.tests\\reviewservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\reviewservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\sevices\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\sevices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\sevices\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic\\sevices\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\sevices\\specialservice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\specialservice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\wrapper\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\wrapper\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\airoportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\airoportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\iairportrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iairportrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\ipassengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ipassengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\passengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\passengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\specialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\specialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\charterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\charterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\changerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\changerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\ichangerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ichangerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\iflightservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iflightservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\airport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\repositories\\baggagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\baggagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\ibaggageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ibaggageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\models\\charter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\charter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\ibaggagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ibaggagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\iairportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iairportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\ichangerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ichangerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\icharterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icharterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\icharterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\icharterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\iroleservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iroleservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\ispecialrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ispecialrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\ispecialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ispecialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\models\\rolandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\rolandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\models\\baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\baggage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic.tests\\roleservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\roleservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\models\\changehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\changehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic.tests\\specialserviceservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\specialserviceservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic\\sevices\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic.tests\\ticketservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFC8CA8-10C2-4043-B547-F54CA4CF08BA}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\ticketservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic\\sevices\\specialservice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sevices\\specialservice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\domain\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\domain\\interfaces\\ispecialrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ispecialrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\domain\\interfaces\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\domain\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\domain\\interfaces\\iroleservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iroleservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\domain\\interfaces\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\domain\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\dataaccess\\models\\rolandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\rolandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|c:\\users\\user\\desktop\\webapplication1\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{763712CF-5E6F-45D9-A8E0-561E30990F1F}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\user\\desktop\\webapplication1\\businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9F22BAEA-2C62-430A-9D2E-170E410EBC20}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\webapplication1\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BBEB198-B8A7-474D-B583-25A076720CA0}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C23F4B66-90AF-4EB1-A067-3C567C5E216F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\desktop\\webapplication1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23F4B66-90AF-4EB1-A067-3C567C5E216F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|c:\\users\\user\\desktop\\\u0443\u0447\u0435\u0431\u0430\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1D72FAC3-405A-47C6-8FEA-081216BC9FFA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23F4B66-90AF-4EB1-A067-3C567C5E216F}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user\\desktop\\webapplication1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C23F4B66-90AF-4EB1-A067-3C567C5E216F}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -410,1209 +170,527 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAABIAAAA",
+              "DocumentIndex": 1,
+              "Title": "AirportServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\AirportServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\AirportServiceTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\AirportServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\AirportServiceTest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T12:15:44.539Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetSpecialService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Contract\\GetSpecialService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Contract\\GetSpecialService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Contract\\GetSpecialService.cs",
-              "RelativeToolTip": "WebApplication1\\Contract\\GetSpecialService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:40:14.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateSpecialService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Contract\\CreateSpecialService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Contract\\CreateSpecialService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Contract\\CreateSpecialService.cs",
-              "RelativeToolTip": "WebApplication1\\Contract\\CreateSpecialService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:38:38.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetTicket.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Contract\\GetTicket.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Contract\\GetTicket.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Contract\\GetTicket.cs",
-              "RelativeToolTip": "WebApplication1\\Contract\\GetTicket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:27:36.218Z"
+              "WhenOpened": "2024-11-28T17:16:29.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SpecialService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\SpecialService.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\SpecialService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\SpecialService.cs",
-              "RelativeToolTip": "Domain\\Models\\SpecialService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Title": "BaggageService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\BaggageService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\BaggageService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\BaggageService.cs",
+              "RelativeToolTip": "BusinessLogic\\Sevices\\BaggageService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:01:24.288Z"
+              "WhenOpened": "2024-11-28T17:15:01.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SpecialController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\SpecialController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SpecialController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\SpecialController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\SpecialController.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAYwFgAAAAhAAAA",
+              "DocumentIndex": 2,
+              "Title": "BaggageServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\BaggageServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\BaggageServiceTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\BaggageServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\BaggageServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:49:59.373Z"
+              "WhenOpened": "2024-11-28T17:14:13.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\BookingService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\BookingService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\BookingService.cs",
+              "RelativeToolTip": "BusinessLogic\\Sevices\\BookingService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:49:59.374Z",
+              "WhenOpened": "2024-11-28T17:10:02.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\BookingServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\BookingServiceTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\BookingServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\BookingServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:09:49.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CreateUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Contract\\CreateUserRequest.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Contract\\CreateUserRequest.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Contract\\CreateUserRequest.cs",
-              "RelativeToolTip": "WebApplication1\\Contract\\CreateUserRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Title": "ChangerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\ChangerService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\ChangerService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\ChangerService.cs",
+              "RelativeToolTip": "BusinessLogic\\Sevices\\ChangerService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:04:49.902Z"
+              "WhenOpened": "2024-11-28T17:04:27.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangeHistoryServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\ChangeHistoryServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\ChangeHistoryServiceTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\ChangeHistoryServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\ChangeHistoryServiceTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:04:15.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirportService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\AirportService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\AirportService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\AirportService.cs",
+              "RelativeToolTip": "BusinessLogic\\Sevices\\AirportService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:23:23.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CreateTicket.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Contract\\CreateTicket.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Contract\\CreateTicket.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Contract\\CreateTicket.cs",
-              "RelativeToolTip": "WebApplication1\\Contract\\CreateTicket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Title": "CharterService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\CharterService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\CharterService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\CharterService.cs",
+              "RelativeToolTip": "BusinessLogic\\Sevices\\CharterService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:24:35.634Z"
+              "WhenOpened": "2024-11-28T17:01:29.906Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "TiketController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\TiketController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TiketController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\TiketController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\TiketController.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAcwFAAAAAsAAAA",
+              "Title": "CharterServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\CharterServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\CharterServiceTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\CharterServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\CharterServiceTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:49:59.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetUserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Contract\\GetUserResponse.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Contract\\GetUserResponse.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Contract\\GetUserResponse.cs",
-              "RelativeToolTip": "WebApplication1\\Contract\\GetUserResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:07:04.159Z"
+              "WhenOpened": "2024-11-28T17:00:56.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "FlightService .cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\FlightService .cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\FlightService .cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\FlightService .cs",
+              "RelativeToolTip": "BusinessLogic\\Sevices\\FlightService .cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvy0AAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:49:59.377Z"
+              "WhenOpened": "2024-11-28T16:59:20.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Ticket.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Ticket.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Ticket.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Ticket.cs",
-              "RelativeToolTip": "Domain\\Models\\Ticket.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Title": "FlightServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\FlightServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\FlightServiceTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\FlightServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\FlightServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:01:21.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ReviewController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\ReviewController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ReviewController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\ReviewController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\ReviewController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:21:29.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\BookingController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\BookingController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:11:24.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BaggageController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\BaggageController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\BaggageController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\BaggageController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\BaggageController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:49:55.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HisController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\HisController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HisController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\HisController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\HisController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:18:40.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "NotifiController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\NotifiController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\NotifiController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\NotifiController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\NotifiController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:20:47.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PassengerController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\PassengerController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PassengerController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\PassengerController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\PassengerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:20:59.835Z"
+              "WhenOpened": "2024-11-28T16:59:04.41Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "flController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\flController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\flController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\flController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\flController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\NotificationService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\NotificationService.cs",
+              "RelativeToolTip": "BusinessLogic\\Sevices\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T12:18:20.353Z"
+              "WhenOpened": "2024-11-28T16:56:34.562Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AirportController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\AirportController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AirportController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\AirportController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\AirportController.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAIwAMAAAAYAAAA",
+              "DocumentIndex": 12,
+              "Title": "NotificationServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\NotificationServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\NotificationServiceTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\NotificationServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\NotificationServiceTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:49:55.452Z"
+              "WhenOpened": "2024-11-28T16:55:12.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PassengerService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\PassengerService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\PassengerService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\PassengerService.cs",
+              "RelativeToolTip": "BusinessLogic\\Sevices\\PassengerService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:51:54.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PassengerServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\PassengerServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\PassengerServiceTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\PassengerServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\PassengerServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:50:58.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\ReviewService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\ReviewService.cs",
+              "RelativeToolTip": "BusinessLogic\\Sevices\\ReviewService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:49:34.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReviewServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\ReviewServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\ReviewServiceTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\ReviewServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\ReviewServiceTest.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:48:14.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "CharterController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\CharterController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CharterController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\CharterController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\CharterController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAhAAAA",
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\RoleService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\RoleService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\RoleService.cs",
+              "RelativeToolTip": "BusinessLogic\\Sevices\\RoleService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:20:23.484Z"
+              "WhenOpened": "2024-11-28T16:41:20.447Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "RoleController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\RoleController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\RoleController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Controllers\\RoleController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\RoleController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAeAAAA",
+              "DocumentIndex": 19,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Models\\Role.cs",
+              "RelativeToolTip": "Domain\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:49:59.372Z"
+              "WhenOpened": "2024-11-28T16:39:58.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAgwAMAAAAYAAAA",
+              "Title": "UserServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\UserServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\UserServiceTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\UserServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\UserServiceTest.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:49:58.908Z"
+              "WhenOpened": "2024-11-28T16:39:33.474Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "WebApplication1.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-20T06:49:59.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\User.cs",
-              "RelativeToolTip": "Domain\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "DocumentIndex": 20,
+              "Title": "RoleServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\RoleServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\RoleServiceTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\RoleServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\RoleServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:56:56.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:01:38.022Z"
+              "WhenOpened": "2024-11-28T16:39:19.76Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Title": "SpecialService2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\SpecialService2.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\SpecialService2.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\SpecialService2.cs",
+              "RelativeToolTip": "BusinessLogic\\Sevices\\SpecialService2.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:27:01.991Z"
+              "WhenOpened": "2024-11-28T16:36:21.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AirportService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\AirportService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\AirportService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\AirportService.cs",
-              "RelativeToolTip": "BusinessLogic\\Sevices\\AirportService.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwC0AAAAmAAAA",
+              "DocumentIndex": 26,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Models\\Ticket.cs",
+              "RelativeToolTip": "Domain\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:20:54.952Z"
+              "WhenOpened": "2024-11-28T16:24:12.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "BookingService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\BookingService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\BookingService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\BookingService.cs",
-              "RelativeToolTip": "BusinessLogic\\Sevices\\BookingService.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAIA1wDAAAAAxAAAA",
+              "DocumentIndex": 24,
+              "Title": "TicketServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\TicketServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\TicketServiceTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\TicketServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\TicketServiceTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwDkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:06:19.291Z"
+              "WhenOpened": "2024-11-28T15:50:44.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\TicketService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\TicketService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Sevices\\TicketService.cs",
+              "RelativeToolTip": "BusinessLogic\\Sevices\\TicketService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:24:22.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SpecialServiceServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\SpecialServiceServiceTest.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\SpecialServiceServiceTest.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic.Tests\\SpecialServiceServiceTest.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\SpecialServiceServiceTest.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:04:53.188Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "BaggageService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\BaggageService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\BaggageService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\BaggageService.cs",
-              "RelativeToolTip": "BusinessLogic\\Sevices\\BaggageService.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDAAAAAxAAAA",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:11:25.976Z"
+              "WhenOpened": "2024-11-28T15:46:31.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IRepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAcAAAA",
+              "DocumentIndex": 28,
+              "Title": "ISpecialRepository .cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\ISpecialRepository .cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISpecialRepository .cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\ISpecialRepository .cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ISpecialRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:02:00.463Z"
+              "WhenOpened": "2024-09-26T08:01:48.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CharterService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\CharterService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\CharterService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\CharterService.cs",
-              "RelativeToolTip": "BusinessLogic\\Sevices\\CharterService.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAwwDQAAAAJAAAA",
+              "DocumentIndex": 27,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRoleRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\IRoleRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T06:49:16.438Z"
+              "WhenOpened": "2024-09-26T08:01:52.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "ChangerService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\ChangerService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\ChangerService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\ChangerService.cs",
-              "RelativeToolTip": "BusinessLogic\\Sevices\\ChangerService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAQwDAAAAAwAAAA",
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\IReviewRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T06:58:24.431Z"
+              "WhenOpened": "2024-09-26T08:01:56.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IPassengerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\IPassengerRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IPassengerRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\IPassengerRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IPassengerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:07:13.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IRoleService .cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\IRoleService .cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRoleService .cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\IRoleService .cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRoleService .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:07:38.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ITicketRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\ITicketRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ITicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:01:44.26Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "FlightService .cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\FlightService .cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\FlightService .cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\FlightService .cs",
-              "RelativeToolTip": "BusinessLogic\\Sevices\\FlightService .cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAIwDIAAAAzAAAA",
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\ITicketService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Interfaces\\ITicketService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T13:14:20.348Z"
+              "WhenOpened": "2024-09-26T08:07:51.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "NotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\NotificationService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\NotificationService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\NotificationService.cs",
-              "RelativeToolTip": "BusinessLogic\\Sevices\\NotificationService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAIwDUAAAAFAAAA",
+              "Title": "RolandContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\DataAccess\\Models\\RolandContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\RolandContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\DataAccess\\Models\\RolandContext.cs",
+              "RelativeToolTip": "DataAccess\\Models\\RolandContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T13:07:16.987Z"
+              "WhenOpened": "2024-09-26T08:15:56.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
-              "Title": "PassengerService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\PassengerService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\PassengerService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\PassengerService.cs",
-              "RelativeToolTip": "BusinessLogic\\Sevices\\PassengerService.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwDAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T12:56:29.787Z"
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T06:49:59.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "ReviewService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\ReviewService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\ReviewService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\ReviewService.cs",
-              "RelativeToolTip": "BusinessLogic\\Sevices\\ReviewService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwCcAAAAlAAAA",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\BusinessLogic\\Class1.cs",
+              "RelativeToolTip": "BusinessLogic\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T12:49:34.589Z"
+              "WhenOpened": "2024-09-20T06:55:49.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
-              "Title": "IReviewService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IReviewService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IReviewService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IReviewService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IReviewService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAjAAAA",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:07:31.081Z"
+              "WhenOpened": "2024-09-20T06:55:38.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "TicketService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\TicketService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\TicketService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\TicketService.cs",
-              "RelativeToolTip": "BusinessLogic\\Sevices\\TicketService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAgwDIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T13:04:10.884Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\UserService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\UserService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\UserService.cs",
-              "RelativeToolTip": "BusinessLogic\\Sevices\\UserService.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAA1wDIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T12:34:08.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "RoleService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\RoleService.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\RoleService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\RoleService.cs",
-              "RelativeToolTip": "BusinessLogic\\Sevices\\RoleService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAcwDAAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T12:39:02.655Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "SpecialService2.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\SpecialService2.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Sevices\\SpecialService2.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Sevices\\SpecialService2.cs",
-              "RelativeToolTip": "BusinessLogic\\Sevices\\SpecialService2.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAIwDEAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T12:14:14.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "IRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IRepositoryBase.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:02:09.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "RepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "RelativeToolTip": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T12:01:54.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "AiroportRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\AiroportRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\AiroportRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\AiroportRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\AiroportRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:15:24.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "IAirportRepository .cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IAirportRepository .cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAirportRepository .cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IAirportRepository .cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IAirportRepository .cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:27:16.479Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\RepositoryBase.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\RepositoryBase.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T07:12:27.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "ReviewRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\ReviewRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\ReviewRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\ReviewRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\ReviewRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T12:42:29.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "INotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\INotificationService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\INotificationService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\INotificationService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\INotificationService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:07:05.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "IPassengerService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IPassengerService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IPassengerService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IPassengerService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IPassengerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:07:18.927Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "PassengerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\PassengerRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\PassengerRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\PassengerRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\PassengerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T12:53:19.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "SpecialRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\SpecialRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\SpecialRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\SpecialRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\SpecialRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T12:04:06.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "TicketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\TicketRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\TicketRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\TicketRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\TicketRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T12:51:25.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "RoleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\RoleRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\RoleRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\RoleRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\RoleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T12:43:52.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "FlightRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\FlightRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\FlightRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\FlightRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\FlightRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T13:10:58.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "NotificationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\NotificationRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\NotificationRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\NotificationRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\NotificationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T13:03:19.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "CharterRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\CharterRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\CharterRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\CharterRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\CharterRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T06:45:24.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "ChangerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\ChangerRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\ChangerRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\ChangerRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\ChangerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T06:54:05.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "IChangerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IChangerRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IChangerRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IChangerRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IChangerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:06:30.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "BookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\BookingRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\BookingRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\BookingRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\BookingRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:03:22.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "IFlightService .cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IFlightService .cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IFlightService .cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IFlightService .cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IFlightService .cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:06:54.542Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "Flight.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Flight.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Flight.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Flight.cs",
-              "RelativeToolTip": "Domain\\Models\\Flight.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:57:49.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Airport.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Airport.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Airport.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Airport.cs",
-              "RelativeToolTip": "Domain\\Models\\Airport.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:29:18.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "BaggageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\BaggageRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\BaggageRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Repositories\\BaggageRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\BaggageRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:08:32.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "IBaggageService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IBaggageService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBaggageService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IBaggageService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IBaggageService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:06:06.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Booking.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Booking.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Booking.cs",
-              "RelativeToolTip": "Domain\\Models\\Booking.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:29:42.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "Charter.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Charter.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Charter.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Charter.cs",
-              "RelativeToolTip": "Domain\\Models\\Charter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:57:47.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Review.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Review.cs",
-              "RelativeToolTip": "Domain\\Models\\Review.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:57:57.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "Notification.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Notification.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Notification.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Notification.cs",
-              "RelativeToolTip": "Domain\\Models\\Notification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:57:52.714Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "IBaggageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IBaggageRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBaggageRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IBaggageRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IBaggageRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:00:58.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "IAirportService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IAirportService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IAirportService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IAirportService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IAirportService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:05:35.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "IBookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IBookingRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBookingRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IBookingRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IBookingRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:06:19.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "IBookingService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IBookingService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBookingService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IBookingService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IBookingService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:06:24.93Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "IChangerService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IChangerService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IChangerService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IChangerService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IChangerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:06:37.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "ICharterRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\ICharterRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\ICharterRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\ICharterRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\ICharterRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:06:41.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "ICharterService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\ICharterService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\ICharterService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\ICharterService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\ICharterService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:06:45.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "IFlightRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IFlightRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IFlightRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IFlightRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IFlightRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:06:50.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
-              "Title": "INotificationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\INotificationRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\INotificationRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\INotificationRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\INotificationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:07:00.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "IPassengerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IPassengerRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IPassengerRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IPassengerRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IPassengerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:07:13.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 80,
-              "Title": "IReviewRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IReviewRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IReviewRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IReviewRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IReviewRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:01:56.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "IRoleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IRoleRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRoleRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IRoleRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IRoleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:01:52.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 82,
-              "Title": "IRoleService .cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IRoleService .cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRoleService .cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\IRoleService .cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IRoleService .cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:07:38.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 83,
-              "Title": "ISpecialRepository .cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\ISpecialRepository .cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISpecialRepository .cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\ISpecialRepository .cs",
-              "RelativeToolTip": "Domain\\Interfaces\\ISpecialRepository .cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:01:48.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 84,
-              "Title": "ISpecialService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\ISpecialService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\ISpecialService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\ISpecialService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\ISpecialService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:07:46.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 85,
-              "Title": "ITicketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\ITicketRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\ITicketRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\ITicketRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\ITicketRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:01:44.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 86,
-              "Title": "ITicketService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\ITicketService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\ITicketService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Interfaces\\ITicketService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\ITicketService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:07:51.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 87,
-              "Title": "RolandContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Models\\RolandContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Models\\RolandContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Models\\RolandContext.cs",
-              "RelativeToolTip": "DataAccess\\Models\\RolandContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:15:56.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 88,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Role.cs",
-              "RelativeToolTip": "Domain\\Models\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:01:27.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 89,
-              "Title": "Baggage.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Baggage.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Baggage.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Baggage.cs",
-              "RelativeToolTip": "Domain\\Models\\Baggage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:29:28.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 90,
-              "Title": "ChangeHistory.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\ChangeHistory.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\ChangeHistory.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\ChangeHistory.cs",
-              "RelativeToolTip": "Domain\\Models\\ChangeHistory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:57:44.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 91,
-              "Title": "Passenger.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Passenger.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Passenger.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Models\\Passenger.cs",
-              "RelativeToolTip": "Domain\\Models\\Passenger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T07:57:55.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 92,
-              "Title": "DataAccess.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\DataAccess.csproj",
-              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\DataAccess.csproj",
-              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-20T06:49:59.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 93,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Class1.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\DataAccess\\Class1.cs",
-              "RelativeToolTip": "DataAccess\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:49:59.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 94,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Class1.cs",
-              "RelativeDocumentMoniker": "BusinessLogic\\Class1.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\Class1.cs",
-              "RelativeToolTip": "BusinessLogic\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:55:49.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 95,
-              "Title": "BusinessLogic.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\BusinessLogic.csproj",
-              "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\BusinessLogic\\BusinessLogic.csproj",
-              "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-20T12:11:14.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 96,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\Domain\\Class1.cs",
-              "RelativeToolTip": "Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:55:38.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 98,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\WebApplication1\\WebApplication1\\appsettings.json",
               "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-20T06:49:59.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 99,
-              "Title": "ConsoleApp1.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-20T06:49:59.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 97,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\WebApplication1\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\WebApplication1\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T06:49:59.414Z"
+              "WhenOpened": "2024-09-20T06:49:59.379Z",
+              "EditorCaption": ""
             }
           ]
         }

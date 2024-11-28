@@ -31,14 +31,35 @@ namespace BusinessLogic.Sevices
         }
         public async Task Create(Review model)
         {
+            if (model == null)
+            {
+                throw new ArgumentNullException(nameof(model));
+            }
+            if (model.UserId == null)
+            {
+                throw new ArgumentException("UserId cannot be null.", nameof(model.UserId));
+            }
+            if (model.FlightId == null)
+            {
+                throw new ArgumentException("FlightId cannot be null.", nameof(model.FlightId));
+            }
+            if (model.Rating < 1 || model.Rating > 5)
+            {
+                throw new ArgumentException("Rating must be between 1 and 5.", nameof(model.Rating));
+            }
+            if (model.ReviewDate == DateTime.MinValue)
+            {
+                throw new ArgumentException("ReviewDate cannot be the minimum value.", nameof(model.ReviewDate));
+            }
+
             await _repositoryWrapper.Review.Create(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Save();
         }
 
         public async Task Update(Review model)
         {
-            _repositoryWrapper.Review.Update(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Review.Update(model);
+            await _repositoryWrapper.Save();
         }
 
         public async Task Delete(int id)
@@ -46,8 +67,8 @@ namespace BusinessLogic.Sevices
             var user = await _repositoryWrapper.User
                 .FindByCondition(x => x.UserId == id);
 
-            _repositoryWrapper.User.Delete(user.First());
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.User.Delete(user.First());
+            await _repositoryWrapper.Save();
         }
     }
 }

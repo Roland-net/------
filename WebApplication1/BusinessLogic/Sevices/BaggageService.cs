@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BusinessLogic.Sevices
 {
-    internal class BaggageService : IBaggageService
+    public class BaggageService : IBaggageService
     {
         private IRepositoryWrapper _repositoryWrapper;
 
@@ -33,14 +33,31 @@ namespace BusinessLogic.Sevices
 
         public async Task Create(Baggage model)
         {
+            if (model == null)
+            {
+                throw new ArgumentNullException(nameof(model));
+            }
+            if (model.PassengerId == null)
+            {
+                throw new ArgumentException("PassengerId cannot be null.", nameof(model.PassengerId));
+            }
+            if (model.Weight <= 0)
+            {
+                throw new ArgumentException("Weight must be greater than 0.", nameof(model.Weight));
+            }
+            if (string.IsNullOrEmpty(model.Status))
+            {
+                throw new ArgumentException("Status cannot be null or empty.", nameof(model.Status));
+            }
+
             await _repositoryWrapper.Baggage.Create(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Save();
         }
 
         public async Task Update(Baggage model)
         {
-            _repositoryWrapper.Baggage.Update(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Baggage.Update(model);
+            await _repositoryWrapper.Save();
         }
 
         public async Task Delete(int id)
@@ -48,8 +65,8 @@ namespace BusinessLogic.Sevices
             var baggage = await _repositoryWrapper.Baggage
                 .FindByCondition(x => x.BaggageId == id);
 
-            _repositoryWrapper.Baggage.Delete(baggage.First());
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Baggage.Delete(baggage.First());
+            await _repositoryWrapper.Save();
         }
     }
 }

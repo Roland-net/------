@@ -31,14 +31,26 @@ namespace BusinessLogic.Sevices
         }
         public async Task Create(Ticket model)
         {
+            if (model == null)
+            {
+                throw new ArgumentNullException(nameof(model));
+            }
+            if (string.IsNullOrEmpty(model.SeatNumber))
+            {
+                throw new ArgumentNullException(nameof(model.SeatNumber));
+            }
+            if (string.IsNullOrEmpty(model.Class))
+            {
+                throw new ArgumentNullException(nameof(model.Class));
+            }
             await _repositoryWrapper.Ticket.Create(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Save();
         }
 
         public async Task Update(Ticket model)
         {
-            _repositoryWrapper.Ticket.Update(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Ticket.Update(model);
+            await _repositoryWrapper.Save();
         }
 
         public async Task Delete(int id)
@@ -46,8 +58,8 @@ namespace BusinessLogic.Sevices
             var ticket = await _repositoryWrapper.Ticket
                 .FindByCondition(x => x.TicketId == id);
 
-            _repositoryWrapper.Ticket.Delete(ticket.First());
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Ticket.Delete(ticket.First());
+                await _repositoryWrapper.Save();
         }
     }
 }

@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Domain.Models;
-using DataAccess.Models;
+using DataAccess.Models; 
 namespace SocNet.Controllers
 {
     [Route("api/[controller]")]

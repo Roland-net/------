@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BusinessLogic.Sevices
 {
-    internal class AirportService : IAirportService
+    public class AirportService : IAirportService
     {
         private IRepositoryWrapper _repositoryWrapper;
 
@@ -28,14 +28,35 @@ namespace BusinessLogic.Sevices
 
         public async Task Create(Airport model)
         {
+            if (model == null)
+            {
+                throw new ArgumentNullException(nameof(model));
+            }
+            if (string.IsNullOrEmpty(model.AirportCode))
+            {
+                throw new ArgumentException("AirportCode cannot be null or empty.", nameof(model.AirportCode));
+            }
+            if (string.IsNullOrEmpty(model.AirportName))
+            {
+                throw new ArgumentException("AirportName cannot be null or empty.", nameof(model.AirportName));
+            }
+            if (string.IsNullOrEmpty(model.City))
+            {
+                throw new ArgumentException("City cannot be null or empty.", nameof(model.City));
+            }
+            if (string.IsNullOrEmpty(model.Country))
+            {
+                throw new ArgumentException("Country cannot be null or empty.", nameof(model.Country));
+            }
+
             await _repositoryWrapper.Airport.Create(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Save();
         }
 
         public async Task Update(Airport model)
         {
-            _repositoryWrapper.Airport.Update(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Airport.Update(model);
+            await _repositoryWrapper.Save();
         }
 
         public async Task Delete(int id)
@@ -43,8 +64,8 @@ namespace BusinessLogic.Sevices
             var airport = await _repositoryWrapper.Airport
                 .FindByCondition(x => x.AirportId == id);
 
-            _repositoryWrapper.Airport.Delete(airport.First());
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Airport.Delete(airport.First());
+            await _repositoryWrapper.Save();
         }
     }
 }

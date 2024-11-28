@@ -16,6 +16,10 @@ namespace SocNet.Controllers
             Context = context;
         }
 
+        /// <summary>
+        /// Получение всех полетов.
+        /// </summary>
+        /// <returns>Список всех полетов.</returns>
         [HttpGet]
         public IActionResult GetAll()
         {
@@ -23,6 +27,13 @@ namespace SocNet.Controllers
             return Ok(Flight);
         }
 
+        /// <summary>
+        /// Получение полета по идентификатору.
+        /// </summary>
+        /// <param name="id">Идентификатор полета.</param>
+        /// <returns>Полет с указанным идентификатором.</returns>
+        /// <response code="200">Возвращает полет.</response>
+        /// <response code="400">Если полет не найден.</response>
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
@@ -34,6 +45,12 @@ namespace SocNet.Controllers
             return Ok(Flight);
         }
 
+        /// <summary>
+        /// Создание нового полета.
+        /// </summary>
+        /// <param name="Flight">Данные для создания полета.</param>
+        /// <returns>Созданный полет.</returns>
+        /// <response code="200">Возвращает созданный полет.</response>
         [HttpPost]
         public IActionResult Add(Flight Flight)
         {
@@ -42,6 +59,12 @@ namespace SocNet.Controllers
             return Ok();
         }
 
+        /// <summary>
+        /// Обновление существующего полета.
+        /// </summary>
+        /// <param name="Flight">Данные для обновления полета.</param>
+        /// <returns>Результат обновления.</returns>
+        /// <response code="200">Если полет успешно обновлен.</response>
         [HttpPut]
         public IActionResult Update(Flight Flight)
         {
@@ -50,6 +73,13 @@ namespace SocNet.Controllers
             return Ok(Flight);
         }
 
+        /// <summary>
+        /// Удаление полета по идентификатору.
+        /// </summary>
+        /// <param name="id">Идентификатор полета.</param>
+        /// <returns>Результат удаления.</returns>
+        /// <response code="200">Если полет успешно удален.</response>
+        /// <response code="400">Если полет не найден.</response>
         [HttpDelete]
         public IActionResult Delete(int id)
         {

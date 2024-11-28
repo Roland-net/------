@@ -4,6 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+	  <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
@@ -20,5 +21,11 @@
     <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj" />
     <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\user\Desktop\учеба\WebApplication1\WebApplication1\.editorconfig" />
+  </ItemGroup>
+
+  
 
 </Project>

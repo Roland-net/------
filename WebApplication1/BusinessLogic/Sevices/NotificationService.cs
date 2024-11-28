@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BusinessLogic.Sevices
 {
-    internal class NotificationService : INotificationService
+    public class NotificationService : INotificationService
     {
         private IRepositoryWrapper _repositoryWrapper;
 
@@ -34,13 +34,13 @@ namespace BusinessLogic.Sevices
         public async Task Create(Notification model)
         {
             await _repositoryWrapper.Notification.Create(model);
-            _repositoryWrapper.Save();
+            await  _repositoryWrapper.Save();
         }
 
         public async Task Update(Notification model)
         {
-            _repositoryWrapper.Notification.Update(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Notification.Update(model);
+            await _repositoryWrapper.Save();
         }
 
         public async Task Delete(int id)
@@ -48,8 +48,8 @@ namespace BusinessLogic.Sevices
             var notification = await _repositoryWrapper.Notification
                 .FindByCondition(x => x.NotificationId == id);
 
-            _repositoryWrapper.Notification.Delete(notification.First());
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Notification.Delete(notification.First());
+            await _repositoryWrapper.Save();
         }
     }
 }

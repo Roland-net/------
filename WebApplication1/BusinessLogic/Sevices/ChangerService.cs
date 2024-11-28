@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BusinessLogic.Sevices
 {
-    internal class ChangerService : IChangerService
+    public class ChangerService : IChangerService
     {
         private IRepositoryWrapper _repositoryWrapper;
 
@@ -33,14 +33,39 @@ namespace BusinessLogic.Sevices
 
         public async Task Create(ChangeHistory model)
         {
+            if (model == null)
+            {
+                throw new ArgumentNullException(nameof(model));
+            }
+            if (model.UserId == null)
+            {
+                throw new ArgumentException("UserId cannot be null.", nameof(model.UserId));
+            }
+            if (string.IsNullOrEmpty(model.TableName))
+            {
+                throw new ArgumentException("TableName cannot be null or empty.", nameof(model.TableName));
+            }
+            if (model.RecordId <= 0)
+            {
+                throw new ArgumentException("RecordId must be greater than 0.", nameof(model.RecordId));
+            }
+            if (string.IsNullOrEmpty(model.ChangeType))
+            {
+                throw new ArgumentException("ChangeType cannot be null or empty.", nameof(model.ChangeType));
+            }
+            if (model.ChangeDate == DateTime.MinValue)
+            {
+                throw new ArgumentException("ChangeDate cannot be the minimum value.", nameof(model.ChangeDate));
+            }
+
             await _repositoryWrapper.Changer.Create(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Save();
         }
 
         public async Task Update(ChangeHistory model)
         {
-            _repositoryWrapper.Changer.Update(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Changer.Update(model);
+            await _repositoryWrapper.Save();
         }
 
         public async Task Delete(int id)
@@ -48,8 +73,8 @@ namespace BusinessLogic.Sevices
             var cange = await _repositoryWrapper.Changer
                 .FindByCondition(x => x.ChangeId == id);
 
-            _repositoryWrapper.Changer.Delete(cange.First());
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Changer.Delete(cange.First());
+            await _repositoryWrapper.Save();
         }
     }
 }

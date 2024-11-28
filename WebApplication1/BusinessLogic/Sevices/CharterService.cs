@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BusinessLogic.Sevices
 {
-    internal class CharterService : ICharterService
+    public class CharterService : ICharterService
     {
         private IRepositoryWrapper _repositoryWrapper;
 
@@ -33,14 +33,27 @@ namespace BusinessLogic.Sevices
 
         public async Task Create(Charter model)
         {
+            if (model == null)
+            {
+                throw new ArgumentNullException(nameof(model));
+            }
+            if (model.FlightId == null)
+            {
+                throw new ArgumentException("FlightId cannot be null.", nameof(model.FlightId));
+            }
+            if (string.IsNullOrEmpty(model.CharterCompany))
+            {
+                throw new ArgumentException("CharterCompany cannot be null or empty.", nameof(model.CharterCompany));
+            }
+
             await _repositoryWrapper.Charter.Create(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Save();
         }
 
         public async Task Update(Charter model)
         {
-            _repositoryWrapper.Charter.Update(model);
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Charter.Update(model);
+            await _repositoryWrapper.Save();
         }
 
         public async Task Delete(int id)
@@ -48,8 +61,8 @@ namespace BusinessLogic.Sevices
             var charter = await _repositoryWrapper.Charter
                 .FindByCondition(x => x.CharterId == id);
 
-            _repositoryWrapper.Charter.Delete(charter.First());
-            _repositoryWrapper.Save();
+            await _repositoryWrapper.Charter.Delete(charter.First());
+            await _repositoryWrapper.Save();
         }
     }
 }

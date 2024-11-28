@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-
 using Domain.Models;
 using DataAccess.Models;
 
@@ -17,6 +16,10 @@ namespace SocNet.Controllers
             Context = context;
         }
 
+        /// <summary>
+        /// Получение всех пассажиров.
+        /// </summary>
+        /// <returns>Список всех пассажиров.</returns>
         [HttpGet]
         public IActionResult GetAll()
         {
@@ -24,6 +27,13 @@ namespace SocNet.Controllers
             return Ok(Passenger);
         }
 
+        /// <summary>
+        /// Получение пассажира по идентификатору.
+        /// </summary>
+        /// <param name="id">Идентификатор пассажира.</param>
+        /// <returns>Пассажир с указанным идентификатором.</returns>
+        /// <response code="200">Возвращает пассажира.</response>
+        /// <response code="400">Если пассажир не найден.</response>
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
@@ -35,6 +45,12 @@ namespace SocNet.Controllers
             return Ok(Passenger);
         }
 
+        /// <summary>
+        /// Создание нового пассажира.
+        /// </summary>
+        /// <param name="Passenger">Данные для создания пассажира.</param>
+        /// <returns>Созданный пассажир.</returns>
+        /// <response code="200">Возвращает созданного пассажира.</response>
         [HttpPost]
         public IActionResult Add(Passenger Passenger)
         {
@@ -43,6 +59,12 @@ namespace SocNet.Controllers
             return Ok();
         }
 
+        /// <summary>
+        /// Обновление существующего пассажира.
+        /// </summary>
+        /// <param name="Passenger">Данные для обновления пассажира.</param>
+        /// <returns>Результат обновления.</returns>
+        /// <response code="200">Если пассажир успешно обновлен.</response>
         [HttpPut]
         public IActionResult Update(Passenger Passenger)
         {
@@ -51,6 +73,13 @@ namespace SocNet.Controllers
             return Ok(Passenger);
         }
 
+        /// <summary>
+        /// Удаление пассажира по идентификатору.
+        /// </summary>
+        /// <param name="id">Идентификатор пассажира.</param>
+        /// <returns>Результат удаления.</returns>
+        /// <response code="200">Если пассажир успешно удален.</response>
+        /// <response code="400">Если пассажир не найден.</response>
         [HttpDelete]
         public IActionResult Delete(int id)
         {
